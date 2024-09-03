@@ -23,9 +23,9 @@
 // =======================================================================
 // 配置信息
 // =======================================================================
-const char* ssid     = "rbmk";                 // WiFi名
-const char* password = "12345677";            //WiFi密码
-String channelId = "24427887";                   //bilibili UID
+const char* ssid     = "sample";                 // WiFi名
+const char* password = "sample";            //WiFi密码
+String channelId = "sample";                   //bilibili UID
 long utcOffset = 8;                              //时区，默认 +8 为东八区（中国北京）
 // =======================================================================
 WiFiClientSecure client; 
